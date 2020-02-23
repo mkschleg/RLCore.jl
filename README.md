@@ -1,3 +1,7 @@
+
+DEPRICATED IN FAVOR OF: https://github.com/mkschleg/MinimalRLCore.jl
+
+
 # RLCore.jl
 
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://mkschleg.github.io/RLCore.jl/dev)
